@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "saturation_phd_research",
+"productVersion": "0.1",
+"dataUrl": "saturation_webgl_build.data.unityweb",
+"wasmCodeUrl": "saturation_webgl_build.wasm.code.unityweb",
+"wasmFrameworkUrl": "saturation_webgl_build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.15f1"
+}
